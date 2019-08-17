@@ -1,2 +1,3 @@
-# rundeck_next_exec
-Rundeck list of jobs with next execution time
+# List of rundeck jobs with next execution time
+Edit in the script rundeck_url and rundeck_auth_token
+Install xmlstarlet and wget
